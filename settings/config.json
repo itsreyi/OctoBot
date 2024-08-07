@@ -1,0 +1,17 @@
+{
+    "token": "AddYourTokenHere",
+    "richPresenceMode": "",
+    "dmTimerMode": "",
+    "dmTimer": null,
+    "dmMin": null,
+    "dmMax": null,
+    "responseMode": "",
+    "responseMsgMode1": "",
+    "responseMsgMode2": "",
+    "spamTimerMode": "",
+    "spamTimer": null,
+    "spamMin": null,
+    "spamMax": null,
+    "spamMsgMode": "",
+    "spamIdMode": ""
+}
